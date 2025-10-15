@@ -1,0 +1,106 @@
+.header {
+text-align: center;
+padding: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: #303478;
+}
+
+.header h1 {
+color: white 
+}
+
+.footer {
+text-align: center; 
+background-color: #303478;
+padding: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+list-style: none;
+}
+
+.footer h2 {
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.footer a {
+color: #303478 
+}
+
+.navbarstyle {
+text-align: center; 
+}
+
+.education-experience {
+background-color: #040633;
+}
+
+.education-experience table {
+padding: 10px;
+border-color: rgb(0, 0, 0);
+}
+
+.education-experience h2 {
+color: white;
+}
+
+.summary {
+background-color: #12154D
+}
+
+.summary h2 {
+color: white; 
+}
+
+.summary p { 
+color: white; 
+}
+
+.skills {
+background-color: #9699CD;
+}
+
+.skills h2 {
+color: white; 
+}
+
+.skills h3 {
+color: white; 
+}
+
+.skills ul { 
+color: white; 
+}
+
+.projects {
+background-color: #5E62A6;
+}
+
+.projects h2 {
+color: white;
+}
+ 
+.main {
+background-color: #303478; 
+}
+
+h1 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h4 {
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+p {
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
